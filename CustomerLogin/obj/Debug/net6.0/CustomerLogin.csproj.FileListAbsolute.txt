@@ -1,0 +1,11 @@
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\bin\Debug\net6.0\CustomerLogin.deps.json
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\bin\Debug\net6.0\CustomerLogin.dll
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\bin\Debug\net6.0\CustomerLogin.pdb
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.AssemblyInfoInputs.cache
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.AssemblyInfo.cs
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.csproj.CoreCompileInputs.cache
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.dll
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\refint\CustomerLogin.dll
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\CustomerLogin.pdb
+D:\mphasis\20Feb\SpecFlowProjectCustomerLogin\CustomerLogin\obj\Debug\net6.0\ref\CustomerLogin.dll

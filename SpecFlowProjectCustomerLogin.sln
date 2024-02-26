@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProjectCustomerLogin", "SpecFlowProjectCustomerLogin\SpecFlowProjectCustomerLogin.csproj", "{FB282B76-EA8A-4665-AA4F-59A04B2A8F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerLogin", "CustomerLogin\CustomerLogin.csproj", "{7BC6453A-BA8D-4536-9320-D97843322BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB282B76-EA8A-4665-AA4F-59A04B2A8F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB282B76-EA8A-4665-AA4F-59A04B2A8F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB282B76-EA8A-4665-AA4F-59A04B2A8F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB282B76-EA8A-4665-AA4F-59A04B2A8F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC6453A-BA8D-4536-9320-D97843322BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC6453A-BA8D-4536-9320-D97843322BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC6453A-BA8D-4536-9320-D97843322BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC6453A-BA8D-4536-9320-D97843322BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C4921F-8E88-4469-9F2F-6860FD2FC0EB}
+	EndGlobalSection
+EndGlobal
